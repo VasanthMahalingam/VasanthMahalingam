@@ -1,8 +1,22 @@
-# 👋 Hi, I'm Vasanth M!  
+# 👋 Hi, I'm Vasanth M! 🚀  
 
-### 🚀 About Me  
-I am a **passionate web developer** with expertise in **frontend, backend, and automation**.  
-I love building interactive web applications and automating workflows using Selenium.  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Web+Developer+%7C+Automation+Enthusiast;Passionate+about+Selenium+and+PHP;Exploring+Power+BI+%26+DBMS;Always+learning+new+technologies!" alt="Typing SVG" />
+</p>
+
+
+## 🚀 About Me  
+💡 **Passionate Web Developer** | 💻 **Automation Enthusiast** | 📊 **Tech Explorer**  
+
+✨ I specialize in:  
+✔️ **Frontend Development** (HTML, CSS, JavaScript, Bootstrap)  
+✔️ **Backend Development** (PHP)  
+✔️ **Automation** (Selenium)  
+✔️ **Database & Analytics** (Power BI, DBMS)  
+
+🔥 I enjoy **building interactive applications** and **automating tasks** to improve efficiency.  
+🎯 Currently exploring **advanced web technologies** and **data visualization tools**.  
+📚 Always **learning and growing** in the tech space! 🚀  
 
 ---
 
