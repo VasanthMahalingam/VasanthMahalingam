@@ -1,8 +1,3 @@
----
-title: "Vasanth M - GitHub Profile"
-author: "Vasanth M"
-output: github_document
----
 
 # 👋 Hi, I'm **Vasanth M!** 🚀  
 
